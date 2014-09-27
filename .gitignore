@@ -1,0 +1,5 @@
+db/*
+log/*
+tmp/cache/assets/*
+tmp/pids/*
+*.swp
